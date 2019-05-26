@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-auth-jwt:1.0.0-beta-3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-auth-jwt/1.0.0-beta-3/a657896e692f7a086c7ae17eaef9c7cbf78b2909/ktor-auth-jwt-1.0.0-beta-3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-auth-jwt/1.0.0-beta-3/36437ae00c9cd62c624f2f45821edcd428b93658/ktor-auth-jwt-1.0.0-beta-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,86 @@
+* {
+    font-family:'Open sans';
+    margin:0;
+}
+nav {
+    padding:0.5rem;
+    background-color: blue;
+    color:white;
+    height:2rem;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+nav a, nav span {
+    display:block;
+    margin-left:1rem;
+    color:white;
+    text-decoration:none;
+}
+nav a:hover {
+    background-color: red;
+    color:white;
+    text-decoration:none;
+}
+nav div{
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+
+}
+h1{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+h2{
+    margin-top:2rem;
+    font-size:2rem;
+    margin-bottom:1rem;
+}
+.delete{
+    border-color:red;
+    color:red;
+}
+.commentaires{
+    margin-bottom:1rem;
+}
+.logout{
+    color:black ;
+    background-color:yellow ;
+    border-radius: 2px;
+    padding:0.5rem 0.6rem;
+}
+.logout:hover{
+    color:white;
+    background-color:rgba(0,0,0,0);
+    border:solid 1px white;
+    border-radius: 2px;
+    padding:0.5rem 0.6rem !important;
+}
+section {
+    padding:2rem;
+}
+section input, section textarea{
+    border: solid 1px #333333;
+    border-radius: 2px;
+    color: #333333;
+    background-color: rgba(0,0,0,0);
+}
+textarea{
+    width:50%;
+    margin-bottom:1rem;
+    height:4rem;
+    padding:0.2rem;
+}
+.block{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    margin-bottom:0.5rem;
+}
+.block form{
+    margin-left:1rem;
+}
+.block a {
+    text-decoration:none;
+}
